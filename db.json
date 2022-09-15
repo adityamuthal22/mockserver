@@ -1,14 +1,20 @@
 {
-   "posts": [
-        {
-        "id": 1,
-        "title": "Hello World",
-        "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-        },
-        {
-        "id": 2,
-        "title": "Eum Et Est Occaecati",
-        "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
-        }
- ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 29,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 1,
+      "name": "Nrupul",
+      "age": 32,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    }
+  ]
 }
