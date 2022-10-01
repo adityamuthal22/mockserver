@@ -187,7 +187,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "Name":"Kamlesh",
       "Gender":"Male",
       "Age":80,
@@ -207,6 +207,89 @@
           "Redux":30,
           "HTML":40,
           "CSS":40
+        }
+   
+      ]
+    },
+    {
+      "id": 7,
+      "Name":"Rani",
+      "Gender":"FeMale",
+      "Age":30,
+      "tests":[
+        {
+          "date":"07-March-2022",
+          "DSA":60,
+          "React":40,
+          "Redux":10,
+          "HTML":10,
+          "CSS":30
+        },
+        {
+          "date":"06-March-2022",
+          "DSA":90,
+          "React":40,
+          "Redux":30,
+          "HTML":40,
+          "CSS":40
+        }
+   
+      ]
+    },
+    {
+      "id": 8,
+      "Name":"Raj",
+      "Gender":"Male",
+      "Age":40,
+      "tests":[
+        {
+          "date":"07-March-2022",
+          "DSA":80,
+          "React":40,
+          "Redux":20,
+          "HTML":10,
+          "CSS":30
+        },
+        {
+          "date":"03-March-2022",
+          "DSA":90,
+          "React":40,
+          "Redux":60,
+          "HTML":40,
+          "CSS":10
+        }
+   
+      ]
+    },
+    {
+      "id": 8,
+      "Name":"Manoj Patel",
+      "Gender":"Male",
+      "Age":80,
+      "tests":[
+        {
+          "date":"07-March-2022",
+          "DSA":80,
+          "React":40,
+          "Redux":20,
+          "HTML":10,
+          "CSS":30
+        },
+        {
+          "date":"03-March-2022",
+          "DSA":90,
+          "React":40,
+          "Redux":60,
+          "HTML":40,
+          "CSS":10
+        },
+        {
+          "date":"03-March-2022",
+          "DSA":90,
+          "React":40,
+          "Redux":60,
+          "HTML":40,
+          "CSS":10
         }
    
       ]
