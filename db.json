@@ -41,6 +41,7 @@
   ],
   "Student":[
     {
+      "id": 1,
       "Name":"Salman Khan",
       "Gender":"Male",
       "Age":20,
@@ -72,6 +73,7 @@
       ]
     },
     {
+      "id": 2,
       "Name":"Mangesh Pawar",
       "Gender":"Male",
       "Age":50,
@@ -103,6 +105,7 @@
       ]
     },
     {
+      "id": 3,
       "Name":"Komal Patil",
       "Gender":"Female",
       "Age":25,
@@ -131,6 +134,81 @@
           "HTML":10,
           "CSS":90
         }
+      ]
+    },
+    {
+      "id": 4,
+      "Name":"Rushi Patil",
+      "Gender":"Male",
+      "Age":70,
+      "tests":[
+        {
+          "date":"09-March-2022",
+          "DSA":60,
+          "React":40,
+          "Redux":90,
+          "HTML":10,
+          "CSS":30
+        },
+        {
+          "date":"02-March-2022",
+          "DSA":90,
+          "React":60,
+          "Redux":90,
+          "HTML":90,
+          "CSS":90
+        }
+   
+      ]
+    },
+    {
+      "id": 5,
+      "Name":"Ganesh Patil",
+      "Gender":"Male",
+      "Age":30,
+      "tests":[
+        {
+          "date":"01-March-2022",
+          "DSA":60,
+          "React":40,
+          "Redux":10,
+          "HTML":10,
+          "CSS":30
+        },
+        {
+          "date":"05-March-2022",
+          "DSA":90,
+          "React":40,
+          "Redux":30,
+          "HTML":40,
+          "CSS":40
+        }
+   
+      ]
+    },
+    {
+      "id": 5,
+      "Name":"Kamlesh",
+      "Gender":"Male",
+      "Age":80,
+      "tests":[
+        {
+          "date":"06-March-2022",
+          "DSA":60,
+          "React":40,
+          "Redux":10,
+          "HTML":10,
+          "CSS":30
+        },
+        {
+          "date":"07-March-2022",
+          "DSA":90,
+          "React":40,
+          "Redux":30,
+          "HTML":40,
+          "CSS":40
+        }
+   
       ]
     }
   ]
