@@ -9,7 +9,7 @@
     "date": "2022-11-25",
     "areaOfHouse": "700",
     "status": false,
-    "rent": 83000,
+    "rent": 5000,
     "address": "Pawan-Nagar Pune",
     "id": 1
     },
@@ -22,7 +22,7 @@
     "date": "2022-11-25",
     "areaOfHouse": "900",
     "status": false,
-    "rent": 54000,
+    "rent": 2000,
     "address": "Ganesh-Nagar Pune",
     "id": 2
     },
@@ -178,7 +178,7 @@
     "date": "2022-11-12",
     "areaOfHouse": "1900",
     "status": false,
-    "rent": 45000,
+    "rent": 1000,
     "address": "Bavdhan Pune",
     "id": 14
     },
@@ -269,7 +269,7 @@
     "date": "2022-11-12",
     "areaOfHouse": "600",
     "status": false,
-    "rent": 19000,
+    "rent": 500,
     "address": "Hinjewadi Pune",
     "id": 21
     },
@@ -515,7 +515,7 @@
     "date": "2022-11-14",
     "areaOfHouse": "1200",
     "status": false,
-    "rent": 55000,
+    "rent": 900,
     "address": "Andheri West Mumbai",
     "id": 40
     },
@@ -554,7 +554,7 @@
     "date": "2022-11-13",
     "areaOfHouse": "1100",
     "status": false,
-    "rent": 51000,
+    "rent": 10000,
     "address": "Mira Road Mumbai",
     "id": 43
     },
@@ -684,7 +684,7 @@
     "date": "2022-11-13",
     "areaOfHouse": "950",
     "status": false,
-    "rent": 30000,
+    "rent": 35000,
     "address": "Ip Extension Delhi",
     "id": 53
     },
